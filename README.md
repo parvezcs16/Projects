@@ -1,5 +1,5 @@
 # Projects
-## To run .ipnyb File Two ways:
+## To run .ipnyb File with Two ways:
 1) First you need to install Anaconda (latest version prefered)
     A complete guide (step-by-step) to install Anaconda Visit: https://medium.com/@neuralnets/beginners-quick-guide-for-handling-issues-launching-jupyter-notebook-for-python-using-anaconda-8be3d57a209b
 2) Run file online with following available platforms:
